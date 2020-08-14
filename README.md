@@ -1,4 +1,4 @@
-# Project-3-Credit-Card-Fraud
+# Credit-Card-Fraud
 **Tools Used:**  
 * Pandas for data acquisition & data cleaning  
 * Matplotlib & Seaborn for data visualization  
